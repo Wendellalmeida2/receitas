@@ -1,2 +1,0 @@
-# receitas
- site de culinaria
